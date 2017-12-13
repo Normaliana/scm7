@@ -4,6 +4,7 @@ public class HelloWorld {
        
         System.out.println("Hi Dr Hassan ");
         System.out.println("We love SCM ");
+        System.out.println("We love <3 ");
         
     }
 
